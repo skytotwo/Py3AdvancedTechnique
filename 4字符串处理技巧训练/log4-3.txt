@@ -1,0 +1,8 @@
+2018-03-09 17:59:18,983 [http-7008-4] INFO 
+2018-03-09 17:59:19 esdk_ec.src.main.java.com.huawei.esdk.uc.professional.local.utils.PropertiesUtils loadProp
+2018-03-09 17:59:19 esdk_ec.src.main.java.com.huawei.esdk.uc.professional.local.utils.PropertiesUtils loadProp
+2018-03-09 17:59:19,086 [http-7008-4] WARN  [org.apache.struts.util.PropertyMessageResources.loadLocale]   Resource 
+2018-03-09 17:59:19,087 [http-7008-4] WARN  [org.apache.struts.util.PropertyMessageResources.loadLocale]   Resource 
+2018-03-09 17:59:19,090 [http-7008-4] ERROR [org.apache.struts.actions.DispatchAction.dispatchMethod] Dispatch[/msgSendAction] to 
+2018-03-09 17:59:19,092 [http-7008-4] WARN  [org.apache.struts.chain.commands.AbstractExceptionHandler.execute] Unhandled 
+2018-03-09 17:59:19,093 [http-7008-4] WARN  [org.apache.struts.chain.commands.ExceptionCatcher.postprocess] Exception from e
